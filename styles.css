@@ -59,9 +59,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
-.footer{
+.footer a,p{
+  text-decoration: none;
   font-size:18px;
   color: #cecfd0;
   font-family: 'Flower', cursive;
 
+}
+.footer a:hover{
+  color: cadetblue;
 }

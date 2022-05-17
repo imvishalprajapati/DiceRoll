@@ -16,5 +16,6 @@ function diceRoll(){
     }
     else{
         document.querySelector("h1").innerHTML="It's Draw - Play Again";
+        document.querySelector("h1").style.color="Yellow";
     }
 }
