@@ -1,0 +1,67 @@
+.container {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 15px;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: cursive;
+  text-shadow: 2px 0 #cecfd0;
+  font-size: 2em;
+  color: #e4d911;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 70%;
+}
+.btnPlay{
+  text-align: center;
+
+}
+.btnPlay button{
+  font-size: 1.5rem;
+  padding: 8px;
+  background-color: brown;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  transition-delay: 150ms;
+  font-style: bold;
+  font-family: cursive;
+}
+.btnPlay button:hover{
+  background-color: green;
+}
+footer {
+  
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.footer{
+  font-size:18px;
+  color: #cecfd0;
+  font-family: 'Flower', cursive;
+
+}
